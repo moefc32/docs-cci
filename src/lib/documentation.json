@@ -25,6 +25,31 @@
                 "title": "Warna",
                 "slug": "warna",
                 "contents": [
+                    {
+                        "type": "color-blocks",
+                        "items": [
+                            {
+                                "label": "CCI Green",
+                                "blockColor": "#64bb46",
+                                "textColor": "#000000"
+                            },
+                            {
+                                "label": "CCI Green Shade",
+                                "blockColor": "#00a850",
+                                "textColor": "#000000"
+                            },
+                            {
+                                "label": "CCI Blue",
+                                "blockColor": "#0f75bd",
+                                "textColor": "#ffffff"
+                            },
+                            {
+                                "label": "CCI Blue Shade",
+                                "blockColor": "#2f67b4",
+                                "textColor": "#ffffff"
+                            }
+                        ]
+                    },
                     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales augue lorem, ut facilisis lorem finibus ut. Nunc mattis dui at pharetra condimentum. Phasellus venenatis id augue quis laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet quam at tellus tristique hendrerit vitae et augue. Praesent eget dui ornare, accumsan augue sed, lacinia erat. Maecenas sit amet odio mi."
                 ]
             },
