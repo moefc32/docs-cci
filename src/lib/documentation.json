@@ -1,5 +1,17 @@
 [
     {
+        "name": "Ketentuan Umum",
+        "pages": [
+            {
+                "title": "Kepemilikan dan Lisensi",
+                "slug": "kepemilikan-dan-lisensi",
+                "contents": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales augue lorem, ut facilisis lorem finibus ut. Nunc mattis dui at pharetra condimentum. Phasellus venenatis id augue quis laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet quam at tellus tristique hendrerit vitae et augue. Praesent eget dui ornare, accumsan augue sed, lacinia erat. Maecenas sit amet odio mi."
+                ]
+            }
+        ]
+    },
+    {
         "name": "Identitas Visual",
         "pages": [
             {
