@@ -18,7 +18,49 @@
                 "title": "Logo",
                 "slug": "logo",
                 "contents": [
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales augue lorem, ut facilisis lorem finibus ut. Nunc mattis dui at pharetra condimentum. Phasellus venenatis id augue quis laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet quam at tellus tristique hendrerit vitae et augue. Praesent eget dui ornare, accumsan augue sed, lacinia erat. Maecenas sit amet odio mi."
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales augue lorem, ut facilisis lorem finibus ut. Nunc mattis dui at pharetra condimentum. Phasellus venenatis id augue quis laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet quam at tellus tristique hendrerit vitae et augue. Praesent eget dui ornare, accumsan augue sed, lacinia erat. Maecenas sit amet odio mi.",
+                    {
+                        "type": "section-title",
+                        "value": "Logo Lengkap"
+                    },
+                    {
+                        "type": "image",
+                        "title": "Logo lengkap CCI",
+                        "target": "/docs/logo/cci-primary.svg",
+                        "background": "#ffffff",
+                        "width": "600px"
+                    },
+                    {
+                        "type": "download-info",
+                        "label": "Logo Lengkap (.png)",
+                        "target": "/docs/logo/cci-primary.png"
+                    },
+                    {
+                        "type": "download",
+                        "label": "Logo Lengkap (.svg)",
+                        "target": "/docs/logo/cci-primary.svg"
+                    },
+                    {
+                        "type": "section-title",
+                        "value": "Logogram"
+                    },
+                    {
+                        "type": "image",
+                        "title": "Logogram CCI",
+                        "target": "/docs/logo/cci-logogram.svg",
+                        "background": "#ffffff",
+                        "width": "600px"
+                    },
+                    {
+                        "type": "download-info",
+                        "label": "Logogram (.png)",
+                        "target": "/docs/logo/cci-logogram.png"
+                    },
+                    {
+                        "type": "download",
+                        "label": "Logogram (.svg)",
+                        "target": "/docs/logo/cci-logogram.svg"
+                    }
                 ]
             },
             {
